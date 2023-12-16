@@ -1,3 +1,2 @@
-Weather Forecasting Web 
-Usinng 
+Weather Forecasting Web  
 #HTML #CSS  #JavaScript
